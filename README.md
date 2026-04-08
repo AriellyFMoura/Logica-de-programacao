@@ -22,8 +22,11 @@ Primeiros contatos com lógica de programação e funcionamento do Visualg.
 Exercícios envolvendo:
 
 Leitura de dados com Leia
+
 Exibição de resultados com Escreva / Escreval
+
 Uso de operadores matemáticos
+
 Manipulação de variáveis
 
 📘 03 - Operadores lógicos e relacionais

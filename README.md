@@ -73,13 +73,17 @@ Trabalho com estruturas bidimensionais de dados.
 
 🛠 Ferramenta utilizada
 Visualg (Portugol)
+
 🎯 Objetivo
 
 Desenvolver base sólida em lógica de programação para evoluir para linguagens como:
 
 C#
+
 Python
+
 JavaScript
+
 Java
 
 💻 Este repositório faz parte do meu processo de aprendizado em programação e evolução na área de tecnologia.

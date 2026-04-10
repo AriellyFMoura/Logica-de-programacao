@@ -1,11 +1,11 @@
-Algoritmo "Média das notas"
+Algoritmo "MÃ©dia das notas"
 
 Var
    Nome: Caracter
    Nota1, Nota2, M: Real
 
 Inicio
-      Escreval("Descubra a média das duas notas")
+      Escreval("Descubra a mÃ©dia das duas notas")
       Escreva("Qual o seu nome? ")
       Leia(Nome)
       Escreva("Qual a primeira nota? ")
@@ -13,7 +13,7 @@ Inicio
       Escreva("Qual a segunda nota? ")
       Leia(Nota2)
       M <- (Nota1 + Nota2)/2
-      Escreva(Nome," a sua média será de ",M)
+      Escreval(Nome," a sua mÃ©dia serÃ¡ de ", M)
 
 
 Fimalgoritmo

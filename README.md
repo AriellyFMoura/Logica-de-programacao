@@ -12,7 +12,7 @@ Os exercícios estão organizados de acordo com os conteúdos estudados no curso
 
 ---
 
-##📘 01 - Introdução
+## 📘 01 - Introdução
 
 Primeiros contatos com lógica de programação e funcionamento do Visualg.
 
